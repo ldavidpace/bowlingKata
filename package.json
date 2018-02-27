@@ -1,0 +1,22 @@
+{
+  "name": "bowlingkata",
+  "version": "1.0.0",
+  "description": "A javascript version of the bowling game kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldavidpace/bowlingKata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldavidpace/bowlingKata/issues"
+  },
+  "homepage": "https://github.com/ldavidpace/bowlingKata#readme",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}
